@@ -25,10 +25,11 @@ Usage
 ---
 Here are some steps to run this project properly:
 1. Import the project into Mbed Studio.
-2. Move central.py into RPi.
-3. Run main.cpp in Mbed Studio.
-4. Run central.py in RPi.
-5. Heartrate and magnetometer values are shown in the console.
+2. Update headerfiles such as MagnetoService.h and GattCharacteristic.h.
+3. Move central.py into RPi.
+4. Run main.cpp in Mbed Studio.
+5. Run central.py in RPi.
+6. Heartrate and magnetometer values are shown in the console.
 
 License
 ---
